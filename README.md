@@ -4,7 +4,7 @@
 
 Este proyecto es un sistema de gestión de citas para una veterinaria desarrollado en C++. El sistema permite administrar veterinarios, paquetes y gestionar citas médicas.
 
-**Curso:** Programación II  
+**Curso:** Programación I 
 **Ciclo:** 2023
 
 ## Características
@@ -70,7 +70,7 @@ cl Principal.cpp
 
 ## Notas
 
-- Este proyecto fue desarrollado como parte del curso de Programación II, Ciclo 2023
+- Este proyecto fue desarrollado como parte del curso de Programación I, Ciclo 2023
 - El sistema utiliza archivos binarios para el almacenamiento de datos
 - La interfaz está diseñada para ejecutarse en consola de Windows
 
